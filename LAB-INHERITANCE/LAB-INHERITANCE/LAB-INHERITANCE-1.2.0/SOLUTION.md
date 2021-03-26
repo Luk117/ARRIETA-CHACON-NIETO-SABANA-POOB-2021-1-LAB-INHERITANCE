@@ -1,4 +1,4 @@
-SOLUTION.md
+# SOLUTION.md
 
 Al ejecutar este proyecto podra encontrar un menú con el cual podra consultar el salario de cualquier empleado, departamente y de la universidad. Para comenzar corra los test, oprima la opcion (4) y elija la consulta que deseee.
 
@@ -14,14 +14,11 @@ Al ejecutar este proyecto podra encontrar un menú con el cual podra consultar e
 
 
 # PARTE II
-![](img\sabanapayroll-class-diagram.png)
-
-
-
-
-
-
-
+![](img\evidencia6.jpg)
+![](img\evidencia7.jpg)
+![](img\evidencia8.jpg)
+![](img\evidencia9.jpg)
+![](img\evidencia10.jpg)
 
 
 
