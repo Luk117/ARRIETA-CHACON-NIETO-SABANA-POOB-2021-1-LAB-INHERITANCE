@@ -29,3 +29,4 @@
 ## Diagrama de clases
 ![](img\sabanapayroll-class-diagram.png)
 ![](img\evidenciaparte4.PNG)
+![](img\diagramaoayroll.png)
