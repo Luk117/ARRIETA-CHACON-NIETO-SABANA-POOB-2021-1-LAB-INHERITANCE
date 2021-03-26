@@ -1,1 +1,9 @@
 SOLUTION.md
+
+# PARTE I
+
+# PARTE II
+
+# PARTE III
+
+# PARTE IV
